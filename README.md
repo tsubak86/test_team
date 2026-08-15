@@ -9,3 +9,4 @@ I Hope it goes well !
 pushテストをします。
 ２回目です。
 ３回目です。
+GitHub App設定完了後のテスト書き込みです。
